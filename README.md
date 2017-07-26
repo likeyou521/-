@@ -1,4 +1,4 @@
-# parking_meter phpunit 跑通指南
+# parking_meter phpunit 跑通指南 (linux系统下运行)
 >  step 1
 
 ~~~linux
